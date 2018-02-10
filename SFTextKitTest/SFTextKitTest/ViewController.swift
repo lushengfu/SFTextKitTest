@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        lable.text = "七田真: http://www.qitianzhen.cn";
     }
 
     override func didReceiveMemoryWarning() {
